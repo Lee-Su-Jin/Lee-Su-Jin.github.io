@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Fundamentals of Open Source Software</p>
+     <p>**Fundamentals of Open Source Software**</p>
 
      <p>ICT융합학부 이수진</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
@@ -22,7 +22,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: paula53@naver.com
   behance:
   bitbucket:
   dribbble:
