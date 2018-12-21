@@ -1,1 +1,1 @@
-![slide1](Lee-Su-Jin.github.io/assets/img/스크린샷 2018-12-22 오전 2.33.00.png)
+![slide1](Lee-Su-Jin.github.io/assets/img/mid_ppt.png)
